@@ -38,6 +38,7 @@ const FabricUtil = () => {
             fontSize: 16,
             textBackgroundColor: `#000000`,
             fill: `#FFFF00`,
+            textAlign: "justify"
          });
          canvas.add(text)
       }
